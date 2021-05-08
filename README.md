@@ -8,5 +8,6 @@ by overwhelming it with traffic from multiple sources. They target a wide variet
 Dwonload&Install
 git clone https://github.com/Mohammedjaseem/DDos-Attack
 cd DDos-Attack
-chmod +x ddos-attack.py
-python ddos-attack.py
+chmod +x ddos.py
+python ddos.py
+
