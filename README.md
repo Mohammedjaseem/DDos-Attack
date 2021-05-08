@@ -15,6 +15,8 @@ chmod +x ddos.py
 
 python ddos.py
 
-screenshot:![Screenshot 2021-05-08 113405](https://user-images.githubusercontent.com/56159302/117528740-60be5e80-aff1-11eb-87b3-a2b6c32852fe.png)
+screenshot:
+
+![Screenshot 2021-05-08 113405](https://user-images.githubusercontent.com/56159302/117528740-60be5e80-aff1-11eb-87b3-a2b6c32852fe.png)
 
 
