@@ -21,9 +21,9 @@ os.system("clear")
 os.system("figlet DDos Attack")
 print
 print "Author    : J4$$Y"
-print "You Tube  : https://www.youtube.com/c/mohammedjaseemtp"
-print "github    : https://github.com/Mohammedjaseem"
-print "instagram : https://www.instagram.com/jassy.in"
+print "You Tube  : www.youtube.com/c/mohammedjaseemtp"
+print "github    : www.github.com/Mohammedjaseem"
+print "Website   : www.jaseem.tech"
 print
 ip = raw_input("IP Target : ")
 port = input("Port       : ")
