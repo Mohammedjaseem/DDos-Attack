@@ -24,7 +24,7 @@ print "Author    : J4$$Y"
 print "You Tube  : www.youtube.com/c/mohammedjaseemtp"
 print "github    : www.github.com/Mohammedjaseem"
 print "Website   : www.jaseem.tech"
-print
+
 ip = raw_input("IP Target : ")
 port = input("Port       : ")
 
